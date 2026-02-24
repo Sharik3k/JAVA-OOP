@@ -1,8 +1,16 @@
+##lab needs##
+/.idea/
+/target/
+/out/
+*.iml
+
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
+
 
 ### Eclipse ###
 .apt_generated
@@ -29,4 +37,4 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-/target/, /out/, *.iml, /.idea/
+
